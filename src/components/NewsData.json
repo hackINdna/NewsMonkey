@@ -1,0 +1,58 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Danone to withdraw from Russia with €1 bln write-off",
+      "description": "French food company Danone <a href=\"https://www.reuters.com/companies/DANO.PA\" target=\"_blank\">(DANO.PA)</a> said on Friday it would shed its dairy food business in Russia in a deal that could lead to a write-off of up to 1 billion euro ($978 million), the la…",
+      "url": "https://www.reuters.com/business/retail-consumer/danone-withdraw-russia-with-1-bln-write-off-result-2022-10-14/",
+      "urlToImage": "https://www.reuters.com/resizer/BVgpTOT0tfCUvFl2CWZY0MpyQ2I=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TSIFC6VXMVJ7PPDPPSELJL2JDY.jpg",
+      "publishedAt": "2022-10-14T06:56:19Z",
+      "content": "PARIS, Oct 14 (Reuters) - French food company Danone (DANO.PA) said on Friday it would shed its dairy food business in Russia in a deal that could lead to a write-off of up to 1 billion euro ($978 mi… [+1168 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": null,
+      "title": "Retirement dreams become nightmares for many older Americans as inflation soars",
+      "description": "Too many Americans have to make a choice between putting food on the table and saving for retirement.",
+      "url": "https://www.usatoday.com/story/opinion/2022/10/13/social-security-cost-of-living-increase-not-enough-inflation/10480417002/",
+      "urlToImage": "https://www.gannett-cdn.com/media/2022/08/20/USATODAY/usatsports/elderly-man-pondering-his-future-getty.jpg?crop=2121,1193,x0,y110&width=2121&height=1193&format=pjpg&auto=webp",
+      "publishedAt": "2022-10-13T19:05:54+00:00",
+      "content": "<ul><li>Social Security recipients are expected to receive an 8.7% cost-of-living increase, the biggest in four decades.</li><li>But the increase is tied to inflation and likely won't offset the high… [+5009 chars]"
+    },
+    {
+      "source": {
+        "id": "medical-news-today",
+        "name": "Medical News Today"
+      },
+      "author": "Deep Shukla",
+      "title": "Ultra-processed foods: Could what a mother eats affect a child's obesity risk?",
+      "description": "A mother's consumption of ultra-processed foods such as packaged bread, and sweetened beverages may be linked to an increased risk of obesity in children, a study suggests.",
+      "url": "http://www.medicalnewstoday.com/articles/ultra-processed-foods-could-what-a-mother-eats-affect-a-childs-obesity-risk",
+      "urlToImage": "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2022/10/ultra_processed_food_obesity_risk_children_732x549_thumb.jpg",
+      "publishedAt": "2022-10-12T14:37:00Z",
+      "content": "<ul><li>Ultra-processed foods are those that have undergone significant levels of industrial processing and modification during preparation and contain only small amounts of whole foods, if any.</li>… [+10907 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Dipak K Dash",
+      "title": "Government to provide 5 kg free food grains to poor for May & June",
+      "description": "India News: The government on Friday announced to provide 5 kg free food grains to the poor for May and June 2021. This will cover nearly 80 crore beneficiaries u",
+      "url": "http://timesofindia.indiatimes.com/india/government-to-provide-5-kg-free-food-grains-to-poor-for-may-june/articleshow/82213582.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-82213583,width-1070,height-580,imgsize-1921513,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2021-04-23T04:23:00Z",
+      "content": null
+    }
+  ]
+}
